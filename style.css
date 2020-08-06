@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  body {
+  background: url(images/viacheslav-bublyk-6WXbPWhT8c8-unsplash.jpg);
+  background-color: #25272f;
+  background-size: cover;
+  font-family: Lucida;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: black;
+  position: relative;
+  max-width: 500px;
+  margin: 0 auto;
+  }
+  h1{
+  text-align: center;
+  }
+  marquee{
+  padding-top: 2rem;
+  color: cornsilk;
+  }
+  .container {
+  display: block;
+  flex-direction: column;
+  margin: 10rem auto;
+  padding: 1rem;
+  max-height: 18rem;
+  border: 1.5px solid rgba(160, 170, 255, 0.35);
+  background-color: rgba(160, 170, 255, 0.35);
+  position: relative;
+  }
+  h2 {
+  margin-bottom: 1rem;
+  text-align: center;
+  }
+  .inputValue,
+  .from,
+  .convtValue,
+  .to {
+  display: block;
+  width: 100%;
+  height: 2rem;
+  margin-bottom: 0.5rem;
+  padding: 0.38rem 0.8rem;
+  color: #495057;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  }
+  
