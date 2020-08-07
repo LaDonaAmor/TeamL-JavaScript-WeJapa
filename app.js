@@ -7,7 +7,7 @@ function convert() {
 const fromCurrency = from.value;
 const toCurrency = to.value;
 /*Fetch API data and append 'from' value*/ 
-fetch(`https://v6.exchangerate-api.com/v6/a8a53540e8725f4573c8c2ad/latest/${fromCurrency}`)
+fetch(`https://api.exchangerate.host/latest/${fromCurrency}`)
 .then(response => response.json())
 .then(data => {
 console.log(data);
