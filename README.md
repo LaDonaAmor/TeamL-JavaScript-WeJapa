@@ -1,4 +1,4 @@
-# TeamL-JavaScript-WeJapa
+# TeamL-JavaScript-WeJapa J2
 
 Project One 
 Build an exchange rate calculator 
