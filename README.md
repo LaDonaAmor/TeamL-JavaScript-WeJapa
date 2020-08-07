@@ -4,6 +4,10 @@ Project One
 Build an exchange rate calculator 
 (Users should be able to select any currency and the rates should be live)
 
+# API USED
+https://www.exchangerate-api.com/docs/
+Base currencies are EUR and USD because we are not on paid accounct.
+
 The proper file structure has been created
 
 Please before you push your codes to the repository make sure you pull from the repository, 
@@ -56,7 +60,3 @@ is doing Your PR should carry the story / task URL (instruction from above). if 
 state why you are doing so in the commit messages
 
 it is not just about the code, user workflow matters too!!
-
-# API USED
-https://www.exchangerate-api.com/docs/
-Base currencies are EUR and USD because we are not on paid accounct.
