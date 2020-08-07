@@ -56,4 +56,7 @@ is doing Your PR should carry the story / task URL (instruction from above). if 
 state why you are doing so in the commit messages
 
 it is not just about the code, user workflow matters too!!
-If you have any issues let ME know
+
+# API USED
+https://www.exchangerate-api.com/docs/
+Base currencies are EUR and USD because we are not on paid accounct.
