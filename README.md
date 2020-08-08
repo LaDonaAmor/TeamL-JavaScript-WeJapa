@@ -14,6 +14,11 @@ other currencies as base.
 # Feedback
 To improve assignment we need an api that has the free option to use any currency as base.
 
+# Contributors Slack username and github names
+@La Doña - Ifeoluwa02
+@SamCares - SamCares 
+@ijeomaemeruwa - ijeomaemeruwa
+
 # Developers guide.
 
 The proper file structure has been created
