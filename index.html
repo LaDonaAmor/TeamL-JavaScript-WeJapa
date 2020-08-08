@@ -5,20 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Currency Converter
     </title>
+    <!--style css-->
     <link rel="stylesheet" href="style.css" />
+    <!--Animation CSS-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css">
   </head>
   <body>
+    <!--Marquee-->
     <div class="team">
       <marquee>
-        <h1> 
+        <h1 class="animate__animated rubberBand"> 
           TEAM L JAVASCRIPT-WEJAPA PROJECT 1
         </h1>
       </marquee>
-    </div>
+    </div> 
+    <!--Currency Container-->
     <div class="container">
-      <h2>Currency Converter
+      <h2 class="ml2">
+        Currency Converter &#129297
       </h2>
       <table>
+              <!--Top Currency (FROM)-->
         <tr>
           <td>
             <input class="inputValue" type="number" placeholder="0" value="1" />
@@ -32,6 +39,7 @@
             </select>
           </td>
         </tr>
+              <!--Bottom Currency (TO)-->
         <tr>
           <td>
             <input class="convtValue" type="number" placeholder="0"/>
@@ -135,6 +143,10 @@
         </tr>
       </table>
     </div>
+    <!--animation script-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js">
+    </script>
+    <!--custom js-->
     <script src="app.js">
     </script>
   </body>
