@@ -6,8 +6,13 @@ Build an exchange rate calculator
 
 # API USED
 https://www.exchangerate-api.com/docs/
-Base currencies are EUR and USD because we are not on paid accounct.
 
+# For our convertion,
+Base currencies are only EUR and USD because we are not on paid account and the  api we used requires we have a pro account to be able to use 
+other currencies as base.
+
+# Feedback
+To improve assignment we need an api that has the free option to use any currency as base.
 
 # Developers guide.
 
